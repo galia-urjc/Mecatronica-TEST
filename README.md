@@ -2,3 +2,7 @@
 Repositorio para hacer pruebas. Asignatura de Mecatrónica
 
 Probando el VScode
+
+==================
+Mi segundo cambio
+==================
